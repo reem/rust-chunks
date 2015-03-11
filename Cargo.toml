@@ -11,12 +11,9 @@ license = "MIT"
 [dependencies.syncbox]
 git = "https://github.com/carllerche/syncbox"
 
-[dependencies.mio]
-git = "https://github.com/carllerche/mio"
-
 [dependencies.bytes]
 git = "https://github.com/carllerche/bytes"
 
-[dependencies]
-rcmut = "*"
+[dependencies.mio]
+git = "https://github.com/carllerche/mio"
 
